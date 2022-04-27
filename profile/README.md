@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/microstream-one/.github/main/etc/images/logo.svg" width="100%">
+<img src="logo.svg" width="100%">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/microstreamOne?style=for-the-badge)](https://twitter.com/microstreamOne)
 [![GitHub](https://img.shields.io/github/license/microstream-one/microstream?style=for-the-badge)](https://github.com/microstream-one/microstream/blob/master/LICENSE)
