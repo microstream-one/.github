@@ -1,8 +1,9 @@
 
-<img src="./etc/images/logo.svg" width="100%">
+<img src="../etc/images/logo.svg" width="100%">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/microstreamOne?style=for-the-badge)](https://twitter.com/microstreamOne)
 [![GitHub](https://img.shields.io/github/license/microstream-one/microstream?style=for-the-badge)](https://github.com/microstream-one/microstream/blob/master/LICENSE)
+
 [![Maven Central](https://img.shields.io/maven-central/v/one.microstream/microstream-base?style=for-the-badge&versionSuffix=-MS-GA)](https://mvnrepository.com/search?q=one.microstream)
 [![Latest](https://img.shields.io/github/v/release/microstream-one/microstream?include_prereleases&style=for-the-badge)](https://github.com/microstream-one/microstream/releases)
  
