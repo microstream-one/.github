@@ -9,6 +9,6 @@
  
 # High-Performance Java-Native-Persistence
 
-### [Reference manual](https://docs.microstream.one/manual) · [Get started](https://docs.microstream.one/manual/storage/getting-started.html) · [Changelog](https://docs.microstream.one/manual/intro/changelog.html) · [Javadocs](https://docs.microstream.one/api) · [Examples](https://github.com/microstream-one/microstream/tree/master/examples) · [Demo project](https://github.com/microstream-one/bookstore-demo) · [Website](https://microstream.one)
+### [Docs](https://docs.microstream.one/manual) · [Get started](https://docs.microstream.one/manual/storage/getting-started.html) · [Changelog](https://docs.microstream.one/manual/intro/changelog.html) · [Javadocs](https://docs.microstream.one/api) · [Examples](https://github.com/microstream-one/microstream/tree/master/examples) · [Demo](https://github.com/microstream-one/bookstore-demo) · [Issues](https://github.com/microstream-one/microstream/issues) · [Stackoverflow](https://stackoverflow.com/questions/tagged/microstream) · [Website](https://microstream.one)
 
 
